@@ -1,0 +1,4 @@
+﻿  scope.cpp
+c:\users\leeson\desktop\watermelon\mscs\first semester\cs201\lab\homework\lab 6.5\scope\scope\scope.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leeson\desktop\watermelon\mscs\first semester\cs201\lab\homework\lab 6.5\scope\scope\scope.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  scope.vcxproj -> C:\Users\leeson\Desktop\watermelon\MSCS\first semester\CS201\LAB\homework\lab 6.5\scope\Debug\scope.exe
